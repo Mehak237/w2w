@@ -1,0 +1,37 @@
+<!-- profile.html -->
+<div class="profile-container">
+    <div class="profile-header">
+        <div class="profile-avatar">
+            <img src="images/user-avatar.png" alt="User Avatar" id="user-avatar">
+            <button class="edit-avatar-btn">✏️</button>
+        </div>
+        <h1 id="username">Eco-Warrior</h1>
+        <div class="eco-points">
+            <span id="points">500</span> Eco-Points ♻️
+        </div>
+    </div>
+
+    <div class="profile-stats">
+        <div class="stat-card">
+            <h3>Products Sold</h3>
+            <p id="products-sold">12</p>
+        </div>
+        <div class="stat-card">
+            <h3>Products Bought</h3>
+            <p id="products-bought">8</p>
+        </div>
+        <div class="stat-card">
+            <h3>Total Impact</h3>
+            <p id="total-impact">20kg Waste Recycled</p>
+        </div>
+    </div>
+
+    <div class="badges-section">
+        <h2>🏆 Eco-Badges</h2>
+        <div class="badges">
+            <div class="badge" title="Green Beginner">🌱</div>
+            <div class="badge" title="Recycling Hero">♻️</div>
+            <div class="badge" title="Waste Warrior">🛡️</div>
+        </div>
+    </div>
+</div>

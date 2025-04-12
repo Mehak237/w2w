@@ -1,0 +1,5 @@
+<!-- Add this to your profile page -->
+<div class="theme-switcher">
+    <button id="dark-mode-btn">🌙 Dark Mode</button>
+    <button id="light-mode-btn">☀️ Light Mode</button>
+</div>

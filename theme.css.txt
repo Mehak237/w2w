@@ -1,0 +1,12 @@
+.dark-theme {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.dark-theme .profile-container,
+.dark-theme .stat-card,
+.dark-theme .badges-section {
+    background: #1e1e1e;
+    color: #ffffff;
+    box-shadow: 0 5px 15px rgba(255, 255, 255, 0.05);
+}
